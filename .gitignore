@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+package.json
+original_styles.css
+about.html.bak
+experience.html.bak
+resume.html.bak
